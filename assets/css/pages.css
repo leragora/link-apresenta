@@ -730,10 +730,10 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 }
 
 #item18219 {
-	width:690px !important;
+	width:810px !important;
 	left:200px !important;
 	top:200px !important;
-	min-height:318px !important;
+	min-height:304px !important;
 	direction:ltr;
 }
 
@@ -1753,7 +1753,7 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 }
 
 #item20837 {
-	width:760px !important;
+	width:1000px !important;
 	left:200px !important;
 	top:140px !important;
 	min-height:205px !important;
@@ -2092,16 +2092,6 @@ p.topico {
 	margin-bottom:20px;
 	text-align:left;
 }
-p.topico-ns {
-	font-weight:bold;
-	font-family:"Plus Jakarta Sans",sans-serif;
-	font-size:30px;
-	line-height:38px;
-	color:#262623;
-	letter-spacing:0.010em;
-	direction:ltr;
-	text-align:left;
-}
 p.topico-space {
 	font-weight:bold;
 	font-family:"Plus Jakarta Sans",sans-serif;
@@ -2111,6 +2101,16 @@ p.topico-space {
 	letter-spacing:0.010em;
 	direction:ltr;
 	margin-bottom:10px;
+	text-align:left;
+}
+p.topico-ns {
+	font-weight:bold;
+	font-family:"Plus Jakarta Sans",sans-serif;
+	font-size:30px;
+	line-height:38px;
+	color:#262623;
+	letter-spacing:0.010em;
+	direction:ltr;
 	text-align:left;
 }
 ul.bullet-maior > li {
@@ -2192,8 +2192,8 @@ p.topico-fio {
 	text-align:left;
 	padding: 5px;
 	padding-left: 30px;
-}
-
+	margin-right: 140px
+} 
 p.txt-menor {
 	font-family:"Plus Jakarta Sans",sans-serif;
 	font-size:32px;
